@@ -4,7 +4,7 @@
 
 # ❓ What you will find here
 - You will find different directories containing different tasks
-- Each directy contains separate files
+- Each directory contains separate files
 
 # 📝 Tasks
 ### Task 1 : Create a To do list web app <br>
