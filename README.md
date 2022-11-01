@@ -8,7 +8,7 @@
 
 # Tasks
 **Task 1** : Create a To do list web app
-<img src="assets/task1.png" alt="task1">
+<img src="assets/task1.png" alt="task1" width="100%">
 
 **Task 2** : Create a web application using create-react-app
 
