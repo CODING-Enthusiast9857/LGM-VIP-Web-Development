@@ -6,8 +6,8 @@
 - You will find different directories containing different tasks
 - Each directy contains separate files
 
-# Tasks
-**Task 1** : Create a To do list web app
+# 📝 Tasks
+**Task 1** : Create a To do list web app <br>
 <img src="assets/task1.png" alt="task1" width="100%">
 
 **Task 2** : Create a web application using create-react-app
