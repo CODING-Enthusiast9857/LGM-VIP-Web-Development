@@ -1,0 +1,71 @@
+.card {
+    margin: 10%;
+    padding: 1.75%;
+}
+
+img {
+    width: 220px;
+    border-radius: 20%;
+    padding: 5%;
+}
+
+.label {
+    margin-bottom: 0;
+    margin-top: auto;
+}
+
+.area {
+    font-size: 18px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #fff;
+    text-align: center;
+}
+
+.area1 {
+    width: 75%;
+    border: 1px solid rgb(197, 197, 197);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    padding: 5%;
+    margin: 3%;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.area2 {
+    margin: 2%;
+    text-align: end;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.heading{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    text-align: left;
+}
+
+.button {
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(0, 195, 255);
+    color: white;
+    text-align: center;
+    padding: 8px;
+    font-size: 22px;
+    height: 100%;
+    width: 35%;
+    margin: auto;
+    border-radius: 100px;
+}
+
+.button:hover {
+    background-color: rgb(0, 221, 255);
+    color: rgb(248, 239, 239);
+}
