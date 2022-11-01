@@ -7,7 +7,7 @@
 - Each directy contains separate files
 
 # 📝 Tasks
-### **Task 1** : Create a To do list web app <br><br>
+### **Task 1** : Create a To do list web app <br>
 <img src="assets/task1.png" alt="task1" width="100%">
 
 ### **Task 2** : Create a web application using create-react-app <br><br>
